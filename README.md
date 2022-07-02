@@ -1,6 +1,6 @@
 # IBM-Articles-Recommendation-with-Machine-Learning
 
-## Your Tasks
+## Tasks
 The project is divided into the following tasks:
 
 - I. Exploratory Data Analysis
